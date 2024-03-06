@@ -13,7 +13,7 @@ public class Question {
         long l = 10000000000L;
         boolean b = true;
 
-        System.out.println("Question 3");
+        System.out.println("Question1 3");
         System.out.println("l = " + l);
         System.out.println("b = " + b);
     }
@@ -23,7 +23,7 @@ public class Question {
         int num2 = 20;
         int sum = num1 + num2;
 
-        System.out.println("Question 2");
+        System.out.println("Question1 2");
         System.out.println("sum = " + sum);
     }
 
@@ -31,7 +31,7 @@ public class Question {
         int num1 = 4;
         int num2 = 3;
 
-        System.out.println("Question 1");
+        System.out.println("Question1 1");
         System.out.println(num1 + num2);
         System.out.println(num1 - num2);
         System.out.println(num1 * num2);
