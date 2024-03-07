@@ -30,6 +30,10 @@ public class Question {
                 break;
             }
         }
+
+        for (int i = 2, count = 1; count <= 10; i += 2, count++) {
+            System.out.println("i = " + i);
+        }
     }
 
     private static void question1() {
